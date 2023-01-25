@@ -1,0 +1,19 @@
+*/config/development
+*/logs/log-*.php
+!*/logs/index.html
+*/cache/*
+!*/cache/index.html
+!*/cache/.htaccess
+
+#codeigniter 3
+application/logs/*
+!application/logs/index.html
+!application/logs/.htaccess
+/vendor/
+/uploads
+/public
+/system
+/Base_de_donnee
+/assets
+
+requette.txt
