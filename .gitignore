@@ -13,7 +13,6 @@ application/logs/*
 /uploads
 /public
 /system
-/Base_de_donnee
 /assets
 
 requette.txt
